@@ -1,0 +1,3 @@
+{"name":"Custom","dataColors":["#15DD3D","#A7F27B","#1B2727","#FFFFFF","#E0653D","#06A68D"],"textClasses":{"title":{"fontFace":"'Segoe UI Semibold', wf_segoe-ui_semibold, 
+helvetica, arial, sans-serif","fontSize":24,"color":"#15DD3D"},"callout":{"color":"#06A68D","fontSize":14},"label":{"color":"#FFFFFF"}},"visualStyles":{"*":{"*":{"background":[{"transparency":70}]}},
+"page":{"*":{"background":[{"color":{"solid":{"color":"#A7F27B"}},"transparency":10}]}}}}
